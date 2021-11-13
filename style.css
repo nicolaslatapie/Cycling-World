@@ -157,7 +157,7 @@ form legend {
     z-index: 1;
     transition: all 05s; color: rgb(250, 237, 237);
     list-style-type: none;
-    line-height : 50px;
+    line-height:40px;  
     
     
 }
@@ -294,8 +294,6 @@ bottom: 650px;
 .precio{
   font-size: 20px;
   text-align: center;
-  
-
 }
 
 
