@@ -1,0 +1,348 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}  
+
+
+  
+  .row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .col {
+    width: 100%;
+  }
+
+  h1 {
+      color: rgb(250, 237, 237);
+      margin-bottom: 2rem;
+  padding: 2rem;
+  text-align: right;
+  right: 9%;
+  top: 51px;
+  }
+  
+  header {
+    background: red ;
+    padding: 0.5rem 0;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+  
+  .nav__list {
+    display: flex;
+    list-style: none;
+  }
+  
+  .nav__item {
+    margin: 0 0 0 1.5rem;
+  }
+  
+  .nav__link {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+  }
+  
+  .nav__link:hover {
+    opacity: 0.65;
+  }
+
+  
+  .footer-sm {
+    background-color:black; 
+    color: white;
+  }
+  
+  .footer-sm a {
+    color: white;
+  }
+  
+  
+  
+  
+  
+  
+  .footer-bottom {
+    padding: 1.5rem 0;
+  }
+  
+
+
+
+
+table {
+    border: 3px solid black
+    
+    
+}
+table {
+    background-color: black
+    }
+
+
+
+
+
+
+
+    body{
+        background-color: black;
+    }
+
+
+
+
+
+nav h1 {
+    color: white
+}
+
+form legend {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+
+
+
+
+.nav {
+ background-color: red;
+ max-width: 1200px;
+ margin: 0 auto;
+ width: 100%;
+}
+
+.nav  {
+    box-shadow: seashell;
+}
+
+
+.nav__link{
+    color:white;
+}
+
+
+
+.nav__link:hover,
+.nav__link:focus {
+    opacity: 0,65;
+}
+
+.nav__section:hover,
+.nav__section:focus {
+    opacity: 0,65;
+}
+
+
+
+.nav__section {
+    color: seashell;
+    list-style: none;
+    text-decoration: none;
+    border-radius: 50rem;
+    cursor: pointer;
+    z-index: 1;
+    transition: all 05s; color: rgb(250, 237, 237);
+    list-style-type: none;
+    line-height : 50px;
+    
+    
+}
+
+
+
+.nav__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    
+}
+
+
+.nav__list--primary{
+    margin-bottom: 0rem;
+}
+
+.nav__item {
+    margin-top: 0,75rem;
+    list-style: none;
+}
+
+main {
+    height: 650px;
+    width: 250px;
+    background: linear-gradient(90deg,black, rgb(255, 0, 0)), right;
+    padding-left: 20px;
+    overflow: hidden;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    
+    
+}
+
+.button {
+    text-decoration: none;
+}
+
+.container {
+    width: 80%;
+    max-width: 1320px;
+    margin: 0 auto;
+}
+
+.footer {
+  
+    background-color: black;
+    position: relative;
+    bottom: 600px;
+    justify-content: center;
+    width: 1349px;
+    
+}
+  
+  .footer-sm {
+    background-color: #212121;
+    color: white;
+    
+  }
+
+  .footer-bottom__copyright {
+    text-align: center;
+    color: gray;
+    font-weight: 400;
+  }
+  .footer-bottom__copyright a {
+    color: gray;
+    text-decoration: none;
+  }
+  
+  .footer-bottom__copyright a:hover {
+    color:black
+    
+  }
+  
+  
+  .footer .nav__item{
+      
+    font-size: 2rem;
+    margin-left: 2rem;
+      display: inline-block;
+  }
+
+aside{
+    position:relative;
+    left: 250px;
+    bottom: 652px;
+    width: 100%;
+
+    border-top: solid 3px black;
+    border-right: solid 3px black;
+}
+
+.frodeno{
+    height: 650px;
+    max-width: 100%;
+    border: 3px solid black;
+    justify-content: center;
+    width: 1100px;
+    
+    
+    
+}
+
+
+.productos{
+display: flex;
+  background-color: white;
+  padding:10px;
+  border: 2px solid white;
+  
+  justify-content: space-between;
+border-bottom: 5px solid black;
+position: relative;
+bottom: 650px;
+
+
+}
+
+.descripcion {
+  font-size: 16px;
+  text-align: center;
+}
+
+.foto{
+  width: 300px;
+  object-fit: cover;
+  height: 300px;
+  border: 2px solid white;
+}
+
+.precio{
+  font-size: 20px;
+  text-align: center;
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
